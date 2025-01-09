@@ -14,8 +14,8 @@ Before you start, ensure you have the following installed on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/username/sample-hugo-site.git
-cd sample-hugo-site
+git clone https://github.com/VasylynaBurger/hugo-site-template
+cd hugo-site-template
 ```
 
 ###  2. Run the Development Server
